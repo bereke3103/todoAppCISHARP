@@ -27,7 +27,7 @@ namespace TodoApp.Models
             set { _text = value; }
         }
 
-
+        //check
 
     }
 }
